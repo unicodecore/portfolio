@@ -1,10 +1,10 @@
 ## My Portfolio
 
-Welcome to Sally's portfolio! This repository showcases a collection of projects I've completed, demonstrating my skills and experience in full-stack web development, AI/ML, data analysis, Google Workspace, and programming.
+Welcome to Uni's portfolio! This repository showcases a collection of projects I've completed, demonstrating my skills and experience in full-stack web development, AI/ML, data analysis, and programming.
 
 ### About Me
 
-Sally is an Aspiring AI/ML Engineer with skills in software engineering and IT.
+Uni is an Aspiring AI/ML Engineer with skills in software engineering and IT.
 
 ### Projects
 
