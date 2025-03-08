@@ -18,7 +18,6 @@ TherapistBot is a mobile application under development using MIT App Inventor. T
 ### Technologies Used
 
 * MIT App Inventor (Primary Development Platform)
-* (Mention any other technologies, libraries, or APIs you used or plan to use.)
 
 ### Development Process
 
