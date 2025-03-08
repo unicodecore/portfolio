@@ -20,4 +20,4 @@ I used:
 * **Google Docs:** Document formatting, organization, collaboration, sharing, styles, and headings.
 
 ### Deliverables
-* Link to Slides (HTML) https://se-sally.github.io/portfolio/ppt-outsmart/outsmart.html
+* Link to Slides (HTML) https://unicodesky.github.io/portfolio/ppt-outsmart/outsmart.html
